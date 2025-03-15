@@ -641,7 +641,7 @@ button:hover {
     font-size: 1.5rem;
   }
   .about-content{
-    padding: 0.8rem;
+    padding: 0.5rem 0px;
   }
   .about-image{
     width:100%;
